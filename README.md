@@ -14,7 +14,7 @@ Use the GitHub classroom link instead: https://classroom.github.com/a/d2j_Uokh
 
 In this assignment, you will write a script that uses mostly built-in Node.js modules to serve a single web page from a file that you have stored in a `public` subdirectory next to your server file.
 
-The cool thing about this assignment is that it should take about 20 lines of code *in toto.*
+The cool thing about this assignment is that it should take about 20 lines of code *in total.*
 
 ### But I don't know how to build a web server?
 
