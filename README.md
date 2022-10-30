@@ -311,7 +311,7 @@ Instead, you are going to read in `./public/index.html` and put that inside `res
 
 Everything you need to be able to do that is available here:
 
-https://nodejs.dev/learn/reading-files-with-nodejs
+https://nodejs.dev/en/learn/reading-files-with-nodejs/
 
 You can use either method available in that example, BTW.
 They do different things, but the end result is the same.
