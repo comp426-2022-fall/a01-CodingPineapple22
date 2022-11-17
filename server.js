@@ -17,7 +17,7 @@ const port = args.port || 3000;
 // If there is an error, put it on the console error and return. 
 // Do not be nice about exiting.
 const fileName = './public/index.html';
-fs.readFile(fileName, (err, data) =>{
+fs.readFile(fileName, 'utf8', (err, data) =>{
 	if(err){
 		console.log(err);
 		return;
