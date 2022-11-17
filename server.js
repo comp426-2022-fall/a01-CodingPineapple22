@@ -22,7 +22,6 @@ fs.readFile(fileName, 'utf8', (err, data) =>{
 		console.log(err);
 		return;
 	}
-});
 // Define a const `server` as an arrow function using http.createServer. 
 // Use the documentation for the node.js http module. 
 // The function should have three responses: 
@@ -39,5 +38,5 @@ const server = http.createServer((req,res) => {
 server.listen(port, () => {
 	console.log(`Server listing on port ${port}`);
 });
-
+});
 // That's it! You're all done!
